@@ -1,4 +1,6 @@
 # Blog-site
 To run:
-From terminal type
-node app.js
+From terminal:
+
+Command --> node app.js
+The site will run on localhost:3000
