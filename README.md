@@ -1,7 +1,7 @@
 # Blog-site
 To run:
 
-'''node app.js'''
+``node app.js``
 Go to localhost:3000
 
 # To compose
