@@ -7,6 +7,6 @@ node app.js
 Open localhost:3000
 
 # To compose
-Go to /compose 
-Type in and hit compose
-The blog will be added to the home page
+1. Go to /compose 
+2. Type in and hit compose
+ The blog will be added to the home page
