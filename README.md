@@ -8,5 +8,4 @@ Open localhost:3000
 
 # To compose
 1. Go to /compose 
-2. Type in and hit compose
- The blog will be added to the home page
+2. Type in and hit compose    The blog will be added to the home page
